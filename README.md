@@ -28,6 +28,19 @@ If you have ideas on anything we can do to improve VegasPy, please submit an iss
 *[jeffnb](https://github.com/jeffnb) = beast mode*
 
 
+## How to Give a Talk
+You don't have to be an expert with decades of experience to give an interesting talk. Our group is very friendly and includes Pythonistas with an extremely wide range of skill levels and backgrounds.
+
+Here are some examples of the types of talks we have had in the past, as well as ideas for future meetings:
+
+- Standard talks - one presenter presenting to the group on a topic of interest
+- Code katas/jams - writing code together to solve fun challenges and puzzles
+- Show and tell - show off a recent project and what you learned from it
+- Field trip - go to Tech Alley or some other local event of interest together
+
+If you would like to give a talk, just attend our monthly meeting and reserve a slot at the end! Don't be shy!
+
+
 ## VegasPy Logistics
 ### Meetings
 - Group meets the second Tuesday of every month.
