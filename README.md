@@ -1,14 +1,13 @@
-# Vegaspy
-Welcome to VegasPy! We are a group of Python enthusiasts based in Las Vegas. You can find us on Meetup at:
+# VegasPy
+Welcome to VegasPy! We are a Meetup group of Python enthusiasts based in Las Vegas.
 
-https://www.meetup.com/vegaspy
+This is the main VegasPy repo. It includes:
 
-This is the main Vegaspy repo. It includes:
+- An [archive](archive) of past talks/meetings
+- Some [docs](documentation) on how to create/give a talk
+- Some [docs](documentation) on how the group is run/organized
 
-- An [archive](Vegaspy) of past talks/meetings
-- Some [documentation](Vegaspy) on how the group is operated
-
-If you have ideas on anything we can do to improve VegasPy, please submit an issue or PR!
+If you have any ideas on things we can do to improve VegasPy, please submit an issue or PR!
 
 ## Meeting Archive
 
