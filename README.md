@@ -10,12 +10,13 @@ This is the main VegasPy repo. It includes:
 If you have any ideas on things we can do to improve VegasPy, please submit an issue or PR!
 
 ## Upcoming Meeting Reservations
+We typically meet online via Zoom the second Tuesday of every month, but make sure to check our schedule (and RSVP!) on Meetup at [meetup.com/vegaspy](https://www.meetup.com/vegaspy) in case something changes.
+
 - Wed Feb 15 2023 6:30PM PDT - Quick and dirty screen scraping (HF)
 - Tue Mar 14 2023 6:30PM PDT - Python Code Jam (Jak Crow)
 
 
 ## Meeting Archive
-
 | No.        | Date       | Title                           | Presenter                           | Resources                                                     |
 |:----------:|:----------:|:-------------------------------:|:-----------------------------------:|:-------------------------------------------------------------:|
 | VegasPy 65 | 2023/01/10 | Looking Forward in 2023         | [jeffnb](https://github.com/jeffnb) | –                                                             |
