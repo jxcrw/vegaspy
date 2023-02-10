@@ -9,6 +9,11 @@ This is the main VegasPy repo. It includes:
 
 If you have any ideas on things we can do to improve VegasPy, please submit an issue or PR!
 
+## Upcoming Meeting Reservations
+- Wed Feb 15 2023 6:30PM PDT - Quick and dirty screen scraping (HF)
+- Tue Mar 14 2023 6:30PM PDT - Python Code Jam (Jak Crow)
+
+
 ## Meeting Archive
 
 | No.        | Date       | Title                           | Presenter                           | Resources                                                     |
