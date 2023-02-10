@@ -54,6 +54,6 @@ If you would like to give a talk, just attend our monthly meeting and reserve a 
 - `TODO: Add some how tos`
 
 ### Organizers
-- `2023 - curr` AP ([handle](handle)), HF ([handle](handle)), Jak Crow ([jxcrw](https://github.com/jxcrw))
+- `2023 - curr` AP ([alien8ion](https://github.com/alien8ion)), HF ([handle](handle)), Jak Crow ([jxcrw](https://github.com/jxcrw))
 - `yyyy - 2023` JN ([jeffnb](https://github.com/jeffnb))
 - `yyyy - yyyy` AE
