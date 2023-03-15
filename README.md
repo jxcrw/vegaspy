@@ -18,20 +18,22 @@ We typically meet online via Zoom the second Tuesday of every month, but make su
 
 
 ## Meeting Archive
-| No.        | Date       | Title                           | Presenter                           | Resources                                                     |
-|:----------:|:----------:|:-------------------------------:|:-----------------------------------:|:-------------------------------------------------------------:|
-| VegasPy 65 | 2023/01/10 | Looking Forward in 2023         | [jeffnb](https://github.com/jeffnb) | –                                                             |
-| VegasPy 64 | 2022/11/08 | Deploying Our Django App        | [jeffnb](https://github.com/jeffnb) | [code](https://github.com/jeffnb/pyvegas-mtg-django) / slides |
-| VegasPy 63 | 2022/10/11 | Using Django with Templates     | [jeffnb](https://github.com/jeffnb) | [code](https://github.com/jeffnb/pyvegas-mtg-django) / slides |
-| VegasPy 62 | 2022/09/13 | Django Making Forms Easier      | [jeffnb](https://github.com/jeffnb) | [code](https://github.com/jeffnb/pyvegas-mtg-django) / slides                                                 |
-| VegasPy 61 | 2022/07/12 | Django Databases                | [jeffnb](https://github.com/jeffnb) | [code](https://github.com/jeffnb/pyvegas-mtg-django) / slides |
-| VegasPy 60 | 2022/05/10 | Encrypting Django Data          | AP                                  | code / slides                                                 |
-| VegasPy 59 | 2022/04/12 | Django Unchained                | [jeffnb](https://github.com/jeffnb) | [code](https://github.com/jeffnb/pyvegas-mtg-django) / slides |
-| VegasPy 58 | 2022/03/08 | The Only Good Bug is a Dead Bug | [jeffnb](https://github.com/jeffnb) | [code](https://github.com/jeffnb/pyvegas-debugging) / slides  |
-| VegasPy 57 | 2022/02/08 | Going Fast with FastAPI         | [jeffnb](https://github.com/jeffnb) | [code](https://github.com/jeffnb/pyvegas-fast-api) / slides   |
-| VegasPy 56 | 2022/01/11 | Test Driven Development         | HF                                  | code / slides                                                 |
+| No.        | Date       | Title                           | Presenter                                 | Resources                                                     |
+|:----------:|:----------:|:-------------------------------:|:-----------------------------------------:|:-------------------------------------------------------------:|
+| VegasPy 67 | 2023/03/14 | Code Jam: Binary Search         | [jxcrw](https://github.com/jxcrw)         | [code / slides](https://github.com/jxcrw/vegaspy-binary-search)                                                             |
+| VegasPy 66 | 2023/02/15 | Quick and Dirty Screen Scraping | Howard F.                                 | –                                                             |
+| VegasPy 65 | 2023/01/10 | Looking Forward in 2023         | [jeffnb](https://github.com/jeffnb)       | –                                                             |
+| VegasPy 64 | 2022/11/08 | Deploying Our Django App        | [jeffnb](https://github.com/jeffnb)       | [code](https://github.com/jeffnb/pyvegas-mtg-django) / slides |
+| VegasPy 63 | 2022/10/11 | Using Django with Templates     | [jeffnb](https://github.com/jeffnb)       | [code](https://github.com/jeffnb/pyvegas-mtg-django) / slides |
+| VegasPy 62 | 2022/09/13 | Django Making Forms Easier      | [jeffnb](https://github.com/jeffnb)       | [code](https://github.com/jeffnb/pyvegas-mtg-django) / slides |
+| VegasPy 61 | 2022/07/12 | Django Databases                | [jeffnb](https://github.com/jeffnb)       | [code](https://github.com/jeffnb/pyvegas-mtg-django) / slides |
+| VegasPy 60 | 2022/05/10 | Encrypting Django Data          | [alien8ion](https://github.com/alien8ion) | code / slides                                                 |
+| VegasPy 59 | 2022/04/12 | Django Unchained                | [jeffnb](https://github.com/jeffnb)       | [code](https://github.com/jeffnb/pyvegas-mtg-django) / slides |
+| VegasPy 58 | 2022/03/08 | The Only Good Bug is a Dead Bug | [jeffnb](https://github.com/jeffnb)       | [code](https://github.com/jeffnb/pyvegas-debugging) / slides  |
+| VegasPy 57 | 2022/02/08 | Going Fast with FastAPI         | [jeffnb](https://github.com/jeffnb)       | [code](https://github.com/jeffnb/pyvegas-fast-api) / slides   |
+| VegasPy 56 | 2022/01/11 | Test Driven Development         | Howard F.                                 | code / slides                                                 |
 
-*[jeffnb](https://github.com/jeffnb) = beast mode*
+[jeffnb](https://github.com/jeffnb) = beast mode :)
 
 
 ## How to Give a Talk
