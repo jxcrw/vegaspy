@@ -3,17 +3,18 @@ Welcome to VegasPy! We are a Meetup group of Python enthusiasts based in Las Veg
 
 This is the main VegasPy repo. It includes:
 
-- An [archive](archive) of past talks/meetings
-- Some [docs](documentation) on how to create/give a talk
-- Some [docs](documentation) on how the group is run/organized
+- An [archive](https://github.com/jxcrw/vegaspy/tree/main/meetings) of past talks/meetings
+- Some [docs](https://github.com/jxcrw/vegaspy#meeting-archive) on how to create/give a talk
+- Some [docs](https://github.com/jxcrw/vegaspy#vegaspy-logistics) on how the group is run/organized
 
 If you have any ideas on things we can do to improve VegasPy, please submit an issue or PR!
 
 ## Upcoming Meeting Reservations
 We typically meet online via Zoom the second Tuesday of every month, but make sure to check our schedule (and RSVP!) on Meetup at [meetup.com/vegaspy](https://www.meetup.com/vegaspy) in case something changes.
 
-- Wed Feb 15 2023 6:30PM PDT - Quick and dirty screen scraping (HF)
-- Tue Mar 14 2023 6:30PM PDT - Python Code Jam (Jak Crow)
+- Tue Apr 11 2023 6:30PM PST - Pylogging (Howard F. or Chad X.)
+- Date TBD - CircuitPy (Scott G.)
+- Date TBD - Python Testing with Pytest (Jak C.)
 
 
 ## Meeting Archive
@@ -51,9 +52,9 @@ If you would like to give a talk, just attend our monthly meeting and reserve a 
 - Group meets the second Tuesday of every month.
 - Meeting scheduling/notifications are handled via [meetup.com/vegaspy](https://www.meetup.com/vegaspy).
 - Meetings are conducted online via Zoom.
-- `TODO: Add some how tos`
+
 
 ### Organizers
-- `2023 - curr` AP ([alien8ion](https://github.com/alien8ion)), HF ([handle](handle)), Jak Crow ([jxcrw](https://github.com/jxcrw))
-- `yyyy - 2023` JN ([jeffnb](https://github.com/jeffnb))
-- `yyyy - yyyy` AE
+- `2023 - curr` Alan P. ([alien8ion](https://github.com/alien8ion)), Howard F. ([handle](handle)), Jak Crow ([jxcrw](https://github.com/jxcrw))
+- `yyyy - 2023` Jeff N. ([jeffnb](https://github.com/jeffnb))
+- `yyyy - yyyy` Adam E.
