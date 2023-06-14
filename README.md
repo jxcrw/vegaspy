@@ -7,14 +7,14 @@ This is the main VegasPy repo. It includes:
 - Some [docs](https://github.com/jxcrw/vegaspy#meeting-archive) on how to create/give a talk
 - Some [docs](https://github.com/jxcrw/vegaspy#vegaspy-logistics) on how the group is run/organized
 
-If you have any ideas on things we can do to improve VegasPy, please submit an issue or PR!
+If you have any ideas on things we can do to improve VegasPy, please submit an issue or PR.
 
 ## Upcoming Meeting Reservations
 We typically meet online via Zoom the second Tuesday of every month, but make sure to check our schedule (and RSVP!) on Meetup at [meetup.com/vegaspy](https://www.meetup.com/vegaspy) in case something changes.
 
-- Tue June 13 2023 6:30PM PST - Parsing Command-Line Arguments (Howard F.)
-- Date TBD - Robot (Chad W.)
-- Date TBD - Python Testing with Pytest (Jak C.)
+- Tue July 11 2023 6:30PM PST - Unittest (Scott G.)
+- Tue August 8 2023 6:30PM PST - Pytest (Jak C.)
+- Tue September 12 6:30PM PST - Config Tips (Alan P.)
 
 
 ## Meeting Archive
@@ -49,7 +49,7 @@ Here are some examples of the types of talks we have had in the past, as well as
 - Show and tell - show off a recent project and what you learned from it
 - Field trip - go to Tech Alley or some other local event of interest together
 
-If you would like to give a talk, just attend our monthly meeting and reserve a slot at the end! Don't be shy!
+If you would like to give a talk, just attend our monthly meeting and reserve a slot at the end. Don't be shy!
 
 
 ## VegasPy Logistics
