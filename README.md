@@ -9,17 +9,18 @@ This is the main VegasPy repo. It includes:
 
 If you have any ideas on things we can do to improve VegasPy, please submit an issue or PR.
 
-## Upcoming Meeting Reservations
-We typically meet online via Zoom the second Tuesday of every month, but make sure to check our schedule (and RSVP!) on Meetup at [meetup.com/vegaspy](https://www.meetup.com/vegaspy) in case something changes.
+## Upcoming Meetings
+We meet online via Zoom the second Tuesday of every month. Make sure to check our schedule (and RSVP!) on Meetup at [meetup.com/vegaspy](https://www.meetup.com/vegaspy) in case something changes.
 
-- Tue July 11 2023 6:30PM PST - Unittest (Scott G.)
-- Tue August 8 2023 6:30PM PST - Pytest (Jak C.)
-- Tue September 12 6:30PM PST - Config Tips (Alan P.)
+- Tue September 12 6:30PM PST - FastAPI (Aki I.)
+- TBD - Config Tips (Alan P.)
 
 
-## Meeting Archive
+## Past Meetings
 |    No.     |    Date    |              Title              |                 Presenter                 |                                                                          Resources                                                                          |
 |:----------:|:----------:|:-------------------------------:|:-----------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| VegasPy 72 | 2023/08/08 |   Python Testing with Pytest    |     [jxcrw](https://github.com/jxcrw)     |                                                  [code / slides](https://github.com/jxcrw/vegaspy-pytest)                                                   |
+| VegasPy 71 | 2023/07/11 |   Unit Testing with unittest    |  [scott-42](https://github.com/scott-42)  |                                                                              –                                                                              |
 | VegasPy 70 | 2023/06/13 |     Command-Line Arguments      |                 Howard F.                 |                                                                              –                                                                              |
 | VegasPy 69 | 2023/05/09 | Embedded Python with CircuitPy  |  [scott-42](https://github.com/scott-42)  |                                                                           pending                                                                           |
 | VegasPy 68 | 2023/04/11 |    Python Logging with Pylog    |   [cwise24](https://gitlab.com/cwise24)   | [code](https://gitlab.com/cwise24/vegaspy) / [slides](https://docs.google.com/presentation/d/1iIiQkireleXZOhRNcqwn8CiII3NTxgCTqxCnpdfXu4g/edit?usp=sharing) |
