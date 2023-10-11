@@ -12,7 +12,6 @@ If you have any ideas on things we can do to improve VegasPy, please submit an i
 ## Upcoming Meetings
 We meet online via Zoom the second Tuesday of every month. Make sure to check our schedule (and RSVP!) on Meetup at [meetup.com/vegaspy](https://www.meetup.com/vegaspy) in case something changes.
 
-- Tue Oct 10 6:30PM PST - FastAPI (Aki I.)
 - Tue Nov 14 6:30PM PST - More Data Serialization (Brett K.)
 - TBD - Config Tips (Alan P.)
 
@@ -20,6 +19,7 @@ We meet online via Zoom the second Tuesday of every month. Make sure to check ou
 ## Past Meetings
 |    No.     |    Date    |              Title              |                 Presenter                 |                                                                          Resources                                                                          |
 |:----------:|:----------:|:-------------------------------:|:-----------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| VegasPy 74 | 2023/10/10 |      Building APIs on AWS       |                 Peter I.                  |                                                                              –                                                                              |
 | VegasPy 73 | 2023/09/12 | The Fly and Data Serialization  |                 Howard F.                 |                                                                              –                                                                              |
 | VegasPy 72 | 2023/08/08 |   Python Testing with Pytest    |     [jxcrw](https://github.com/jxcrw)     |                                                  [code / slides](https://github.com/jxcrw/vegaspy-pytest)                                                   |
 | VegasPy 71 | 2023/07/11 |   Unit Testing with unittest    |  [scott-42](https://github.com/scott-42)  |                                                                              –                                                                              |
